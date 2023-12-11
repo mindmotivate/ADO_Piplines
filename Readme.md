@@ -31,3 +31,40 @@ Please be aware that the error may stem from the absence of granted parallelism,
 
 
 ![image](https://github.com/mindmotivate/ADO_Piplines/assets/130941970/ef139930-ea1b-4c89-9819-43df5f7fdd2a)
+
+
+# Logging into BalericaDevOps - Quick Start Guide
+
+Welcome to BalericaDevOps! Below are the initial steps to log in, with emphasis on using an "InPrivate" window for Microsoft Edge users. Please follow these instructions carefully.
+
+## Prerequisites:
+- Ensure you have a BalericaDevOps email address ending with "@BalericaDevOps.com."
+
+## Steps:
+
+1. Open your web browser and navigate to the official Azure DevOps website using the following URL: [https://azure.microsoft.com/en-us/products/devops/](https://azure.microsoft.com/en-us/products/devops/).
+
+2. Click on the "Sign in" button located in the top right corner of the page.
+
+3. On the sign-in page, enter your BalericaDevOps email address in the provided field.
+
+4. **Important: Use an "InPrivate" window (for Microsoft Edge users) for enhanced security.**
+
+   - If you are using Microsoft Edge:
+     - Open a new window.
+     - Click on the three dots in the top-right corner.
+     - Select "New InPrivate window."
+
+   - If you are using a different browser, consider using its private or incognito mode.
+
+5. Enter your password and click on the "Sign in" button.
+
+6. In the event that you encounter any issues logging in or need an immediate password reset, please contact Theo Waf for assistance.
+
+   - **Theo Waf Contact Information:**
+     - Email: theowaf@gmail.com
+       
+Please note that for security reasons, it is crucial to use an "InPrivate" window and to contact Theo Waf promptly if you face any login difficulties. Thank you for your attention, and enjoy using BalericaDevOps!
+
+
+
