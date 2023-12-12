@@ -435,4 +435,36 @@ Adjusting these settings is crucial to ensure that you have the flexibility to w
 
 ![image](https://github.com/mindmotivate/ADO_Piplines/assets/130941970/ac909110-b971-4b8d-9d57-f576ebe9d75a)
 
+## Create a Folder Within the S3 Bucket
+
+1. In the AWS Management Console, navigate to the **S3 service**.
+
+2. Click on the S3 bucket you created earlier.
+
+3. Inside the bucket, click on the **Create folder** button.
+
+4. Provide a name for the folder, for example, `terraform-statefiles`. This folder will be used to organize your Terraform state files.
+
+5. Click **Save** or **Create folder**
+
+![image](https://github.com/mindmotivate/ADO_Piplines/assets/130941970/4c690a35-a82b-437f-ac0a-4ef2e9a36f03)
+
+ ![image](https://github.com/mindmotivate/ADO_Piplines/assets/130941970/fb5a96c1-a991-485b-b5e2-1e6b8dc641ed)
+
+![image](https://github.com/mindmotivate/ADO_Piplines/assets/130941970/eac9136b-ab2a-44af-aaa6-a974b71e6e7d)
+
+![image](https://github.com/mindmotivate/ADO_Piplines/assets/130941970/a87d4198-e0c2-4c27-bc45-78167dbad15b)
+
+![image](https://github.com/mindmotivate/ADO_Piplines/assets/130941970/c12be2a0-241f-42b5-8860-d60e37fe522d)
+
+![image](https://github.com/mindmotivate/ADO_Piplines/assets/130941970/33cde515-574b-45f0-a89c-2d852ac8434d)
+
+![image](https://github.com/mindmotivate/ADO_Piplines/assets/130941970/f46e5fd1-b11a-432c-8a48-6b7044e51259)bucket
+
+
+5. Obtain arn: and save in notepad application
+
+6. paste your arn in the console:
+
+7. ![image](https://github.com/mindmotivate/ADO_Piplines/assets/130941970/a7e955e2-6914-492f-856d-55b2d27ffc1d)
 
