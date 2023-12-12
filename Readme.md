@@ -300,7 +300,41 @@ Adjusting these settings is crucial to ensure that you have the flexibility to w
 
 
 
+![image](https://github.com/mindmotivate/ADO_Piplines/assets/130941970/a4d6fda1-c334-4822-aecf-c7917e4f181c)
 
+![image](https://github.com/mindmotivate/ADO_Piplines/assets/130941970/d156de18-823c-4678-befc-10291f53bf45)
+
+![image](https://github.com/mindmotivate/ADO_Piplines/assets/130941970/418a3b8f-e4e9-49c6-90a5-be9c10efb66a)
+
+
+
+
+
+![image](https://github.com/mindmotivate/ADO_Piplines/assets/130941970/5b77a334-4540-484f-8d71-eed37091807d)
+![image](https://github.com/mindmotivate/ADO_Piplines/assets/130941970/74108f08-e5ab-498e-b3f8-219f41d72272)
+![image](https://github.com/mindmotivate/ADO_Piplines/assets/130941970/9786b89d-fbe4-454a-a47c-7236feb87636)
+
+![image](https://github.com/mindmotivate/ADO_Piplines/assets/130941970/3eb243c1-0655-42af-95ef-5e7edcb28748)
+![image](https://github.com/mindmotivate/ADO_Piplines/assets/130941970/8d2110ce-5689-4124-8887-867947ceba6a)
+
+![image](https://github.com/mindmotivate/ADO_Piplines/assets/130941970/44d9aef5-b5ac-43ed-9f4c-89a63c32010b)
+
+![image](https://github.com/mindmotivate/ADO_Piplines/assets/130941970/6682124b-76c9-4317-9c88-9dbceae24a7c)
+
+![image](https://github.com/mindmotivate/ADO_Piplines/assets/130941970/7df24d3e-88b3-4537-9c26-59104aca706d)
+
+![image](https://github.com/mindmotivate/ADO_Piplines/assets/130941970/299a69da-abc5-4d66-bf88-44cb1fd43c1e)
+
+![image](https://github.com/mindmotivate/ADO_Piplines/assets/130941970/beaeb602-078c-4249-8a45-584417faede0)
+![image](https://github.com/mindmotivate/ADO_Piplines/assets/130941970/a0117f34-85bb-4657-b56d-5456a1685992)
+
+![image](https://github.com/mindmotivate/ADO_Piplines/assets/130941970/f66760da-cf34-4104-99b0-c739cc71d966)
+
+![image](https://github.com/mindmotivate/ADO_Piplines/assets/130941970/e92af746-90f1-4d25-86a1-d0bef65babc6)
+
+![image](https://github.com/mindmotivate/ADO_Piplines/assets/130941970/5ec2a8c9-481a-4288-8876-44af1b58daee)
+
+![image](https://github.com/mindmotivate/ADO_Piplines/assets/130941970/72378106-ee40-42c8-a0e7-f570da8099ef)
 
 
 ### Step-by-Step Guide: Creating a Service Connection in Azure DevOps
@@ -323,6 +357,16 @@ Adjusting these settings is crucial to ensure that you have the flexibility to w
 
 4. **Choose Service Connection Type:**
    - Select the type of service connection based on the external service you are connecting to (e.g., Azure Resource Manager, GitHub, Docker Registry, etc.).
+
+
+
+
+### Configure AWS for Terraform as a Service Provider in Azure DevOps
+
+#### Part 1: AWS for Terraform Service Connection
+
+
+![image](https://github.com/mindmotivate/ADO_Piplines/assets/130941970/c2c9865a-9b72-4d22-8f6b-5b368299b403)
 
 
 
