@@ -206,6 +206,34 @@ Ensure secure storage and management of login credentials and keys.
 
 
 
+# Pipleline Settings
+
+## Change Defaults
+By default, the option **"Disable creation of classic release pipelines"** is set to **"disabled."** Unfortunately, this default setting can be frustrating for users who require classic release pipelines. The same default setting also applies to classic build pipelines.
+
+## Action Required
+To address this issue and ensure the smooth functioning of your pipelines, it is imperative that you navigate to the organization settings in Azure DevOps and make the necessary changes. Please follow the steps below:
+
+1. **Go to Organization Settings:**
+   - Log in to your Azure DevOps account.
+   - Navigate to the organization you are working on.
+
+2. **Choose Pipelines:**
+   - Within the organization settings, select the "Pipelines" option.
+
+3. **Modify Default Settings:**
+   - Look for the option **"Disable creation of classic release pipelines."**
+   - Change the setting to **"enabled"** to allow the creation of classic release pipelines.
+
+4. **Verify Classic Build Pipelines:**
+   - Look for the option **"Disable creation of classic build pipelines."**
+   - Change the setting to **"enabled"** to allow the creation of classic build pipelines.
+ 
+## Why is This Important?
+Adjusting these settings is crucial to ensure that you have the flexibility to work with classic release pipelines and classic build pipelines as needed for your projects. Failing to make these adjustments may lead to unnecessary challenges in your DevOps workflows.
+
+## ***Make these changes at your earliest convenience to avoid any disruptions in your projects.***
+
 
 
 
