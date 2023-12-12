@@ -373,3 +373,36 @@ Adjusting these settings is crucial to ensure that you have the flexibility to w
 
 ![image](https://github.com/mindmotivate/ADO_Piplines/assets/130941970/fbea8d76-0e02-497c-8e56-b338b8ac79ec)
 
+
+### Configure Snyk as a Service Provider in Azure DevOps
+
+
+![image](https://github.com/mindmotivate/ADO_Piplines/assets/130941970/5c7215d1-bf8d-4536-b41b-79649123c357)
+
+![image](https://github.com/mindmotivate/ADO_Piplines/assets/130941970/fcb8d631-ec3e-4599-9743-a8dd73e839e2)
+
+
+![image](https://github.com/mindmotivate/ADO_Piplines/assets/130941970/a6843f81-f1c0-4185-97fc-cc8d888eac8b)
+
+
+![image](https://github.com/mindmotivate/ADO_Piplines/assets/130941970/1747ebcb-022c-49bc-88b4-3cb8e2aae977)
+
+![image](https://github.com/mindmotivate/ADO_Piplines/assets/130941970/1efa93cf-2da7-4b19-b869-2a5f5bb9ab35)
+
+![image](https://github.com/mindmotivate/ADO_Piplines/assets/130941970/68f102d7-6f25-4556-b2d0-c97fbd3fe687)
+
+![image](https://github.com/mindmotivate/ADO_Piplines/assets/130941970/63686638-e779-44cf-a347-94ff1d6423ea)
+
+![image](https://github.com/mindmotivate/ADO_Piplines/assets/130941970/ae113fe8-b651-44c4-be8a-ac8d6a3084b6)
+
+![image](https://github.com/mindmotivate/ADO_Piplines/assets/130941970/a0608c5e-e569-444d-b08a-6c6589c8ed1f)
+
+![image](https://github.com/mindmotivate/ADO_Piplines/assets/130941970/4c67263d-c92b-4c31-b5ba-3cd31522532f)
+
+![image](https://github.com/mindmotivate/ADO_Piplines/assets/130941970/ce9cbf55-9f1d-4583-b664-fdcb33e38c86)
+
+
+### Create an S3 bucket in AWS
+
+
+![image](https://github.com/mindmotivate/ADO_Piplines/assets/130941970/aba2a94a-17ee-4513-95e7-3effbf9c42d8)
