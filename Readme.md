@@ -178,3 +178,36 @@ Ensure secure storage and management of login credentials and keys.
 
 
 
+
+
+
+
+
+
+![image](https://github.com/mindmotivate/ADO_Piplines/assets/130941970/ecd80404-a24d-4f47-810f-dd28b7f4c26c)
+
+![image](https://github.com/mindmotivate/ADO_Piplines/assets/130941970/d012fff0-a0b1-4c5c-804e-3982eac4b030)
+
+![image](https://github.com/mindmotivate/ADO_Piplines/assets/130941970/d8231494-affe-4ccd-a028-b0b1d45ddcfb)
+
+
+
+
+<img width="485" alt="ADOExtentions1" src="https://github.com/mindmotivate/ADO_Piplines/assets/130941970/42c24238-cacf-43f4-be28-8960f919cb83">
+<img width="522" alt="ADOExtentions2" src="https://github.com/mindmotivate/ADO_Piplines/assets/130941970/6f06937c-c198-4fe1-b273-6de3c8164153">
+
+
+![image](https://github.com/mindmotivate/ADO_Piplines/assets/130941970/96bfd63e-b557-4161-bedc-4837f259363b)
+
+![image](https://github.com/mindmotivate/ADO_Piplines/assets/130941970/b23b501e-81f9-468d-84c3-ae9fb9095eb1)
+
+![image](https://github.com/mindmotivate/ADO_Piplines/assets/130941970/2fd77490-efb5-447c-9b98-9d93cea7c3b6)
+
+
+
+
+
+
+
+
+
