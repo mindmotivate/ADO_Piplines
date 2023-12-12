@@ -263,25 +263,38 @@ Adjusting these settings is crucial to ensure that you have the flexibility to w
 
 2. **Access Service Connections:**
    - Under the "Pipelines" category, click on "Service connections."
+   - ![image](https://github.com/mindmotivate/ADO_Piplines/assets/130941970/52548f56-70da-4332-b6cf-a1a65ef87174)
+
 
 3. **Create New Service Connection:**
    - Click on the `+ New service connection` button.
 
+
+![image](https://github.com/mindmotivate/ADO_Piplines/assets/130941970/590b0c9f-b94e-48c6-bf81-3c2239c6ca92)
+
+
 4. **Choose Service Connection Type:**
    - Select the type as "AWS."
+![image](https://github.com/mindmotivate/ADO_Piplines/assets/130941970/868c942e-d288-429d-8699-c1e466a110dc)
 
 5. **Provide AWS Connection Details:**
    - Enter the AWS access key and secret key in the appropriate fields.
    - Optionally, specify a session token if you're using temporary security credentials.
 
-6. **Name the Connection:**
-   - Give your service connection a name like "AWS Connection."
+![image](https://github.com/mindmotivate/ADO_Piplines/assets/130941970/04cce22b-0640-4797-ab1f-af282cd0f5e7)
 
-7. **Test Connection (Optional):**
-   - Optionally, you can test the connection to ensure that the provided details are correct.
+6. **Name the Connection:**
+   - Give your service connection a name like "AWS"
+  
+   - ![image](https://github.com/mindmotivate/ADO_Piplines/assets/130941970/a57583d4-4908-47ce-93fe-c9529d03af60)
+
+
+7. **Description (Optional):**
+   - Optionally, you can add a description if you choose.
 
 8. **Save the AWS Service Connection:**
    - Click on the `Save` button to create the AWS service connection.
+![image](https://github.com/mindmotivate/ADO_Piplines/assets/130941970/8a11bded-adfc-452a-a693-28c424873ef6)
 
 
 
@@ -301,6 +314,9 @@ Adjusting these settings is crucial to ensure that you have the flexibility to w
 
 2. **Access Service Connections:**
    - Under the "Pipelines" category, click on "Service connections."
+  
+     ![image](https://github.com/mindmotivate/ADO_Piplines/assets/130941970/87c4002f-1815-4b98-8dad-b58ff6563947)
+
 
 3. **Create New Service Connection:**
    - Click on the `+ New service connection` button.
