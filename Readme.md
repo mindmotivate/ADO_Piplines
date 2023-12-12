@@ -247,3 +247,69 @@ Adjusting these settings is crucial to ensure that you have the flexibility to w
 
 ![image](https://github.com/mindmotivate/ADO_Piplines/assets/130941970/2d5ebe5c-8f35-4d31-8f10-7772754776cf)
 
+
+
+
+
+
+### Configure AWS as a Service Provider in Azure DevOps
+
+#### Part 1: Create an AWS Service Connection
+
+1. **Navigate to Project Settings:**
+   - Open your Azure DevOps organization.
+   - Go to the project where you want to configure AWS as a service provider.
+   - Click on "Project settings" in the bottom left corner.
+
+2. **Access Service Connections:**
+   - Under the "Pipelines" category, click on "Service connections."
+
+3. **Create New Service Connection:**
+   - Click on the `+ New service connection` button.
+
+4. **Choose Service Connection Type:**
+   - Select the type as "AWS."
+
+5. **Provide AWS Connection Details:**
+   - Enter the AWS access key and secret key in the appropriate fields.
+   - Optionally, specify a session token if you're using temporary security credentials.
+
+6. **Name the Connection:**
+   - Give your service connection a name like "AWS Connection."
+
+7. **Test Connection (Optional):**
+   - Optionally, you can test the connection to ensure that the provided details are correct.
+
+8. **Save the AWS Service Connection:**
+   - Click on the `Save` button to create the AWS service connection.
+
+
+
+
+
+
+
+
+### Step-by-Step Guide: Creating a Service Connection in Azure DevOps
+
+#### Part 1: Create a Service Connection
+
+1. **Navigate to Project Settings:**
+   - Open your Azure DevOps organization.
+   - Go to the project for which you want to create a service connection.
+   - Click on "Project settings" in the bottom left corner.
+
+2. **Access Service Connections:**
+   - Under the "Pipelines" category, click on "Service connections."
+
+3. **Create New Service Connection:**
+   - Click on the `+ New service connection` button.
+
+4. **Choose Service Connection Type:**
+   - Select the type of service connection based on the external service you are connecting to (e.g., Azure Resource Manager, GitHub, Docker Registry, etc.).
+
+
+
+
+![image](https://github.com/mindmotivate/ADO_Piplines/assets/130941970/fbea8d76-0e02-497c-8e56-b338b8ac79ec)
+
