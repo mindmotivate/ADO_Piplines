@@ -93,4 +93,16 @@ Please note that for security reasons, it is crucial to use an "InPrivate" windo
 ![image](https://github.com/mindmotivate/ADO_Piplines/assets/130941970/f082da01-eae6-48a9-b4a5-4b575fa53fe1)
 
 
+![image](https://github.com/mindmotivate/ADO_Piplines/assets/130941970/6523e21c-27aa-416a-ae69-3c286a3d7dad)
+
+![image](https://github.com/mindmotivate/ADO_Piplines/assets/130941970/9563bde0-9eb0-4559-8846-9d5fdc72610b)
+
+![image](https://github.com/mindmotivate/ADO_Piplines/assets/130941970/4a47cd85-ea28-4e9f-ae57-eb38bb580bc6)
+
+![image](https://github.com/mindmotivate/ADO_Piplines/assets/130941970/025a7bfb-d9cc-41ce-9f7c-3db60fd02a39)
+
+![image](https://github.com/mindmotivate/ADO_Piplines/assets/130941970/a8f84e0a-0765-40f2-b90b-e4fd08b62c00)
+
+
+
 
