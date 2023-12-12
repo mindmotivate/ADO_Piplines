@@ -235,7 +235,9 @@ Adjusting these settings is crucial to ensure that you have the flexibility to w
 ## ***Make these changes at your earliest convenience to avoid any disruptions in your projects.***
 
 
+![image](https://github.com/mindmotivate/ADO_Piplines/assets/130941970/a7ffdf41-a05f-43e2-bcc3-72c12cf94d6f)
 
 
+![image](https://github.com/mindmotivate/ADO_Piplines/assets/130941970/759607f5-0cbf-4d23-91ee-46bbfdfb1f69)
 
 
