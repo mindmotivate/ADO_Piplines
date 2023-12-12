@@ -241,3 +241,9 @@ Adjusting these settings is crucial to ensure that you have the flexibility to w
 ![image](https://github.com/mindmotivate/ADO_Piplines/assets/130941970/759607f5-0cbf-4d23-91ee-46bbfdfb1f69)
 
 
+
+5. **Additionally: Disable Triggers for Pull Requests:**
+   - Ensure that triggers for building pull requests are turned off to fully implement the selected option. This step is crucial to align with your project's guidelines and control how your pipelines handle pull requests from forked repositories.
+
+![image](https://github.com/mindmotivate/ADO_Piplines/assets/130941970/2d5ebe5c-8f35-4d31-8f10-7772754776cf)
+
