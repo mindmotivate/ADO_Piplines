@@ -404,5 +404,35 @@ Adjusting these settings is crucial to ensure that you have the flexibility to w
 
 ### Create an S3 bucket in AWS
 
+## Step 1: Create an S3 Bucket
+
+1. In the AWS Management Console, navigate to the **S3 service**.
+
+2. Click on the **Create bucket** button.
+
+3. Provide a globally unique name for your bucket. AWS S3 bucket names must be unique across all regions and AWS accounts. Choose a name that reflects your project or organization.
+
+4. Choose the region where you want to create the bucket. Select a region that is geographically closer to your users or resources.
+
+5. You can leave other settings as default for now, or configure them based on your specific requirements. Click **Next** until you reach the **Review** step.
+
+6. Review your settings, and if everything looks good, click **Create bucket**.
+
+
+
+## Note: Obtain S3 Bucket Name
+### Make a note of the S3 bucket name you just created. You'll need this information when configuring Azure DevOps.
 
 ![image](https://github.com/mindmotivate/ADO_Piplines/assets/130941970/aba2a94a-17ee-4513-95e7-3effbf9c42d8)
+
+![image](https://github.com/mindmotivate/ADO_Piplines/assets/130941970/47306de9-9b99-4f8f-8f30-c682761a1d76)
+
+![image](https://github.com/mindmotivate/ADO_Piplines/assets/130941970/a9805d0b-27a0-4231-be03-eebb717a8f3f)
+
+![image](https://github.com/mindmotivate/ADO_Piplines/assets/130941970/f9286580-8714-4400-972b-85ddd26f83cd)
+
+![image](https://github.com/mindmotivate/ADO_Piplines/assets/130941970/d5a6c8e8-6059-4353-9cd6-83e4e28b0433)
+
+![image](https://github.com/mindmotivate/ADO_Piplines/assets/130941970/ac909110-b971-4b8d-9d57-f576ebe9d75a)
+
+
