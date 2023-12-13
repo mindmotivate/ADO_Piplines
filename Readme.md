@@ -513,3 +513,23 @@ By using release pipelines in Azure DevOps, development teams can automate and s
 
 
 ![image](https://github.com/mindmotivate/ADO_Piplines/assets/130941970/8c14a0c2-3fd5-46bb-a7d7-294bb5b064cc)
+
+
+
+
+![image](https://github.com/mindmotivate/ADO_Piplines/assets/130941970/295050fc-92b8-4067-9f60-bd638bc866ba)
+
+
+![image](https://github.com/mindmotivate/ADO_Piplines/assets/130941970/1b7545c5-aa86-44a5-99e2-263dd50367b8)
+
+
+![image](https://github.com/mindmotivate/ADO_Piplines/assets/130941970/568c75f4-1e69-4df0-8641-aeba2be2ed2e)
+
+
+![image](https://github.com/mindmotivate/ADO_Piplines/assets/130941970/3062a696-0795-411f-b5bb-5d8845e20bbe)
+
+
+![image](https://github.com/mindmotivate/ADO_Piplines/assets/130941970/336b5dda-5dce-4d6e-94a4-f838c9743a3b)
+
+
+![image](https://github.com/mindmotivate/ADO_Piplines/assets/130941970/0a39200f-484b-411a-8846-2e408877d4ed)
