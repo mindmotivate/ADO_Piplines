@@ -533,3 +533,35 @@ By using release pipelines in Azure DevOps, development teams can automate and s
 
 
 ![image](https://github.com/mindmotivate/ADO_Piplines/assets/130941970/0a39200f-484b-411a-8846-2e408877d4ed)
+
+
+![image](https://github.com/mindmotivate/ADO_Piplines/assets/130941970/88d416ed-fa34-49d2-986a-a8f1a3cb16a8)
+
+
+
+![image](https://github.com/mindmotivate/ADO_Piplines/assets/130941970/a0877d23-b5d3-4bb6-8d7e-c58ea8f07585)
+
+
+![image](https://github.com/mindmotivate/ADO_Piplines/assets/130941970/bcec95e6-e04f-4a98-bc33-ab04207b19b8)
+
+
+![image](https://github.com/mindmotivate/ADO_Piplines/assets/130941970/67932b41-be54-4f58-b007-c1414b754310)
+
+
+![image](https://github.com/mindmotivate/ADO_Piplines/assets/130941970/c9ebccaf-3ba6-44d6-a3fd-297f6883f3d1)
+
+![image](https://github.com/mindmotivate/ADO_Piplines/assets/130941970/e8b8396a-7e17-43ec-8330-d62a2d5c7386)
+
+![image](https://github.com/mindmotivate/ADO_Piplines/assets/130941970/2cd112e3-5a30-427d-9c2b-88bbb3f91163)
+
+
+![image](https://github.com/mindmotivate/ADO_Piplines/assets/130941970/4db29377-748a-4223-bc72-b664c44b78a5)
+
+![image](https://github.com/mindmotivate/ADO_Piplines/assets/130941970/4ef5f2fe-cb4a-4e66-b9dd-320075870dff)
+
+![image](https://github.com/mindmotivate/ADO_Piplines/assets/130941970/518c9089-043c-467f-b655-2763fd8a878e)
+
+![image](https://github.com/mindmotivate/ADO_Piplines/assets/130941970/0d3ef1b9-07cc-49c9-9377-bf46093b6cf5)
+
+![image](https://github.com/mindmotivate/ADO_Piplines/assets/130941970/5ec8a784-a19c-4d3a-8d46-29fa35589328)
+
